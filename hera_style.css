@@ -60,6 +60,7 @@ a {
 }
 
 .hera:hover{
+  transition: .1s linear;
   width: 100%;
 }
 
@@ -92,7 +93,8 @@ footer {
 }
 
 p:hover{
-  color: yellow;
+  transition: .1s;
+  color: transparent;
 }
 
 p:hover strong{
